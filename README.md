@@ -1,10 +1,8 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto de criar a conta do Instagram Concluído 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Projeto da DIO sobre fundamentos de HTML5 e CSS3 
 
-### Os requisitos são:
+### As alterações:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+* Personalização das medias
+* Alterações de dados do usuário
